@@ -1,4 +1,7 @@
 # WHAT TYPE OF SMOKER ARE YOU ??
+
+Presentation : https://prezi.com/view/Bnt4IPCaFg6IosC0f6Mr/
+
 ## Index
 **Notebooks** contains:
 
